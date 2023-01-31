@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SortTimeScore", "SortTimeScore.pyproj", "{03D126A4-598B-4ABE-8EC2-34F5BCB99A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D126A4-598B-4ABE-8EC2-34F5BCB99A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D126A4-598B-4ABE-8EC2-34F5BCB99A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D761545B-0548-4B8E-88FB-9BEE70E46E90}
+	EndGlobalSection
+EndGlobal
